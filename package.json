@@ -1,0 +1,25 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "All it does is log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexGaillard/logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Alex Gaillard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexGaillard/logger/issues"
+  },
+  "homepage": "https://github.com/AlexGaillard/logger#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
